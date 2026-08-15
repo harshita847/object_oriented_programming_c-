@@ -9,7 +9,7 @@ public: // access modifiers
     { // no return type
         cout << "i am a constructor" << endl;
     };
-    // parameterised constructor
+    // parameterised constructor in which we can pass parameter
     teacher(string s, string d)
     {
         name = s;
